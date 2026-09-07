@@ -17,7 +17,7 @@ printf(" Enter second number: ");
 scanf("%d",&num2);
 
 printf(" Enter third number: ");
-scanf(" %d",&num3);
+scanf("%d",&num3);
 
 total = (num1+num2+num3);
 average = total/3;
